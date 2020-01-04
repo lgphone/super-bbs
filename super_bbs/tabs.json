@@ -1,0 +1,189 @@
+[
+  {
+    "zh": "技术",
+    "name": "tech",
+    "sort_num": 1,
+    "sub_tabs": [
+      {
+        "zh": "程序员",
+        "name": "programmer",
+        "sort_num": 1,
+        "desc": "程序员频道,大家可以讨论程序员相关的事情。"
+      },
+      {
+        "zh": "Python",
+        "name": "python",
+        "sort_num": 2,
+        "desc": "这里讨论各种 Python 语言编程话题，也包括 Django，Tornado 等框架的讨论。这里是一个能够帮助你解决实际问题的地方。"
+      },
+      {
+        "zh": "iDev",
+        "name": "idev",
+        "sort_num": 3,
+        "desc": "iOS 及 OS X 开发技术讨论区，iOS 是 iPhone 及 iPad 上运行的操作系统。"
+      },
+      {
+        "zh": "Android",
+        "name": "android",
+        "sort_num": 4,
+        "desc": "来自 Google 的开放源代码智能手机平台。"
+      },
+      {
+        "zh": "Linux",
+        "name": "linux",
+        "sort_num": 5,
+        "desc": "Ubuntu CnametOS RedHat ..."
+      },
+      {
+        "zh": "云计算",
+        "name": "cloud",
+        "sort_num": 6,
+        "desc": "关于云计算技术和平台的综合讨论区。"
+      }
+    ]
+  },
+  {
+    "zh": "创意",
+    "name": "creative",
+    "sort_num": 2,
+    "sub_tabs": [
+      {
+        "zh": "分享创造",
+        "name": "create",
+        "sort_num": 1,
+        "desc": "欢迎你在这里发布自己的最新作品！"
+      },
+      {
+        "zh": "设计",
+        "name": "design",
+        "sort_num": 2,
+        "desc": "Beautiful adj. Pleasing the snameses or mind aesthetically."
+      },
+      {
+        "zh": "奇思妙想",
+        "name": "ideas",
+        "sort_num": 3,
+        "desc": "让你的创意在这里自由流动吧。"
+      }
+    ]
+  },
+  {
+    "zh": "好玩",
+    "name": "play",
+    "sort_num": 3,
+    "sub_tabs": [
+      {
+        "zh": "分享发现",
+        "name": "share",
+        "sort_num": 1,
+        "desc": "分享你看到的好玩的，有信息量的，欢迎从这里获取灵感。"
+      },
+      {
+        "zh": "电子游戏",
+        "name": "games",
+        "sort_num": 2,
+        "desc": "Life is short, have more fun."
+      },
+      {
+        "zh": "电影",
+        "name": "movie",
+        "sort_num": 3,
+        "desc": "用 90 分钟去体验另外一个世界。"
+      }
+    ]
+  },
+  {
+    "zh": "酷工作",
+    "name": "jobs",
+    "sort_num": 4,
+    "sub_tabs": [
+      {
+        "zh": "酷工作",
+        "name": "jobs",
+        "sort_num": 1,
+        "desc": "做有趣的有意义的事情。"
+      },
+      {
+        "zh": "求职",
+        "name": "cv",
+        "sort_num": 2,
+        "desc": "欢迎在这里发布自己的求职简历。"
+      },
+      {
+        "zh": "职场话题",
+        "name": "career",
+        "sort_num": 3,
+        "desc": "这里，我们聊聊那些工作中遇到的开心和不开心的事。"
+      }
+    ]
+  },
+  {
+    "zh": "交易",
+    "name": "deals",
+    "sort_num": 5,
+    "sub_tabs": [
+      {
+        "zh": "二手交易",
+        "name": "all4all",
+        "sort_num": 1,
+        "desc": "为自己的闲置物品找到更好的主人。"
+      },
+      {
+        "zh": "物物交换",
+        "name": "exchange",
+        "sort_num": 2,
+        "desc": "将自己不需要的闲置物品拿出来和大家交换吧。"
+      },
+      {
+        "zh": "免费赠送",
+        "name": "free",
+        "sort_num": 3,
+        "desc": null
+      }
+    ]
+  },
+  {
+    "zh": "城市",
+    "name": "city",
+    "sort_num": 6,
+    "sub_tabs": [
+      {
+        "zh": "北京",
+        "name": "beijing",
+        "sort_num": 1,
+        "desc": null
+      },
+      {
+        "zh": "上海",
+        "name": "shanghai",
+        "sort_num": 2,
+        "desc": null
+      },
+      {
+        "zh": "深圳",
+        "name": "shenzhen",
+        "sort_num": 3,
+        "desc": null
+      },
+      {
+        "zh": "广州",
+        "name": "guangzhou",
+        "sort_num": 4,
+        "desc": null
+      }
+    ]
+  },
+  {
+    "zh": "问与答",
+    "name": "qna",
+    "sort_num": 7,
+    "sub_tabs": [
+      {
+        "zh": "问与答",
+        "name": "qna",
+        "sort_num": 1,
+        "desc": "一个更好的世界需要你持续地提出好问题。"
+      }
+    ]
+  }
+]

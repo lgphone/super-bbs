@@ -11,41 +11,41 @@
 ### 开发原因： 前后端分离，替换原来的FakeV2EX项目
 ### 用户界面图片展示：
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs1.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs1.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs2.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs2.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs3.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs3.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs6.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs6.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs7.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs7.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs8.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs8.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs9.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs9.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs10.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs10.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs11.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs11.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs12.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs12.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs13.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs13.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/bbs14.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/bbs14.png)
 
 
 ## 管理界面图片展示：
 
-![](https://github.com/lgphone/super-bbs/docs/pic/admin1.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/admin1.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/admin2.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/admin2.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/admin3.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/admin3.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/admin4.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/admin4.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/admin5.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/admin5.png)
 
-![](https://github.com/lgphone/super-bbs/docs/pic/admin6.png)
+![](https://github.com/lgphone/super-bbs/blob/master/docs/pic/admin6.png)

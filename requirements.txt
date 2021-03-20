@@ -18,7 +18,7 @@ greenlet==0.4.15
 idna==2.8
 importlib-metadata==0.19
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 kombu==4.6.4
 Mako==1.1.0
 MarkupSafe==1.1.1

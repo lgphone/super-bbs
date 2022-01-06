@@ -2,7 +2,7 @@ alembic==1.0.11
 amqp==2.5.1
 billiard==3.6.1.0
 blinker==1.4
-celery==4.3.0
+celery==5.2.2
 certifi==2019.6.16
 chardet==3.0.4
 Click==7.0
